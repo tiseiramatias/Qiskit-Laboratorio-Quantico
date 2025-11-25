@@ -25,30 +25,6 @@ El objetivo es proporcionar un recurso práctico para estudiantes, educadores y 
 
 ---
 
-##  Requisitos e Instalación
-
-Para ejecutar estas simulaciones, necesitas tener **Python** instalado en tu sistema. Muchas de las simulaciones que incluyen visualización requieren librerías científicas y de trazado de gráficos.
-
-###  Requisitos Previos
-
-Asegúrate de tener instalado **Python 3.x**.
-
-Instalar dependencias:
-Bash
-
-    pip install numpy matplotlib
-
-    (Asegúrate de incluir aquí cualquier otra dependencia necesaria, como scipy si se usa en alguna simulación.)
-
- Uso
-
-Para ejecutar cualquier simulación, simplemente navega al directorio del proyecto y ejecuta el archivo deseado con Python:
-Bash
-
-python simulacion_epidemia.py
-
-    Nota: Revisa el código de cada archivo para ver si se requieren argumentos de línea de comandos o si hay parámetros ajustables.
-
 🤝 Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si deseas mejorar una simulación existente, añadir una nueva o corregir un bug, por favor sigue estos pasos:
