@@ -25,11 +25,11 @@ El objetivo es proporcionar un recurso práctico para estudiantes, educadores y 
 
 ---
 
-## 🛠️ Requisitos e Instalación
+##  Requisitos e Instalación
 
 Para ejecutar estas simulaciones, necesitas tener **Python** instalado en tu sistema. Muchas de las simulaciones que incluyen visualización requieren librerías científicas y de trazado de gráficos.
 
-### 📌 Requisitos Previos
+###  Requisitos Previos
 
 Asegúrate de tener instalado **Python 3.x**.
 
